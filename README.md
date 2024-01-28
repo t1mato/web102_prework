@@ -36,6 +36,10 @@ GIF created with LiceCap and Imgur
 
 Describe any challenges encountered while building the app.
 
+- Challenge 3 took me a while because implementing an inner HTML card within a loop wasn't something that I've seen before
+- Had difficulty creating a string that explained the number of unfunded games with the ternary operator, but eventually got it down
+- Destructuring and using the spread operator was a little bit confusing because that was the first time I had also seen it
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
