@@ -4,7 +4,7 @@ Submitted by: **Timothy Lee**
 
 **WEB102 Prework - Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **20** hours spent in total
+Time spent: **30** hours spent in total
 
 ## Required Features
 
